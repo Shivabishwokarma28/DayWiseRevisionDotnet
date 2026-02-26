@@ -1,0 +1,14 @@
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\04_StringMethods\bin\Debug\net8.0\04_StringMethods.exe
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\04_StringMethods\bin\Debug\net8.0\04_StringMethods.deps.json
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\04_StringMethods\bin\Debug\net8.0\04_StringMethods.runtimeconfig.json
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\04_StringMethods\bin\Debug\net8.0\04_StringMethods.dll
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\04_StringMethods\bin\Debug\net8.0\04_StringMethods.pdb
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\04_StringMethods\obj\Debug\net8.0\04_StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\04_StringMethods\obj\Debug\net8.0\04_StringMethods.AssemblyInfoInputs.cache
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\04_StringMethods\obj\Debug\net8.0\04_StringMethods.AssemblyInfo.cs
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\04_StringMethods\obj\Debug\net8.0\04_StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\04_StringMethods\obj\Debug\net8.0\04_StringMethods.dll
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\04_StringMethods\obj\Debug\net8.0\refint\04_StringMethods.dll
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\04_StringMethods\obj\Debug\net8.0\04_StringMethods.pdb
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\04_StringMethods\obj\Debug\net8.0\04_StringMethods.genruntimeconfig.cache
+C:\Users\shiva bishwokarma\Documents\C#project\Csharpcode\04_StringMethods\obj\Debug\net8.0\ref\04_StringMethods.dll
