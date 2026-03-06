@@ -1,4 +1,0 @@
-SELECT * 
-FROM Class As c
-INNER JOIN Teacher As T
-ON C.T_ID=T.T_ID
