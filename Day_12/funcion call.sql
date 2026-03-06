@@ -1,1 +1,0 @@
-SELECT dbo.PrintData() AS Message;
